@@ -1,0 +1,132 @@
+.tarot-card {
+    position: relative;
+    /* width: 198px; */
+    /* height: 250px; */
+    width: 99px;
+    height: 125px;
+    background-size: cover;
+    filter: brightness(30%);
+}
+
+.tarot-card.reverse {
+    transform: scale(-1,-1);
+}
+
+.tarot-card.tarot-done {
+    filter: none;
+}
+
+.tarot0 {
+    background-image: url("../images/tarots/Z3-00U.png");
+    /* src: url("https://i.postimg.cc/Xq2SN4kX/Z3-00U.png"); */
+}
+
+
+.tarot1 {
+    background-image: url("../images/tarots/Z3-01U.png");
+}
+
+
+.tarot2 {
+    background-image: url("../images/tarots/Z3-02U.png");
+}
+
+
+.tarot3 {
+    background-image: url("../images/tarots/Z3-03U.png");
+}
+
+
+.tarot4 {
+    background-image: url("../images/tarots/Z3-04U.png");
+}
+
+
+.tarot5 {
+    background-image: url("../images/tarots/Z3-05U.png");
+}
+
+
+.tarot6 {
+    background-image: url("../images/tarots/Z3-06U.png");
+}
+
+
+.tarot7 {
+    background-image: url("../images/tarots/Z3-07U.png");
+}
+
+
+.tarot8 {
+    background-image: url("../images/tarots/Z3-08U.png");
+}
+
+
+.tarot9 {
+    background-image: url("../images/tarots/Z3-09U.png");
+}
+
+
+.tarot10 {
+    background-image: url("../images/tarots/Z3-10U.png");
+}
+
+
+.tarot11 {
+    background-image: url("../images/tarots/Z3-11U.png");
+}
+
+
+.tarot12 {
+    background-image: url("../images/tarots/Z3-12U.png");
+}
+
+
+.tarot13 {
+    background-image: url("../images/tarots/Z3-13U.png");
+}
+
+
+.tarot14 {
+    background-image: url("../images/tarots/Z3-14U.png");
+}
+
+
+.tarot15 {
+    background-image: url("../images/tarots/Z3-15U.png");
+}
+
+
+.tarot16 {
+    background-image: url("../images/tarots/Z3-16U.png");
+}
+
+
+.tarot17 {
+    background-image: url("../images/tarots/Z3-17U.png");
+}
+
+
+.tarot18 {
+    background-image: url("../images/tarots/Z3-18U.png");
+}
+
+
+.tarot19 {
+    background-image: url("../images/tarots/Z3-19U.png");
+}
+
+
+.tarot20 {
+    background-image: url("../images/tarots/Z3-20U.png");
+}
+
+
+.tarot21 {
+    background-image: url("../images/tarots/Z3-21U.png");
+}
+
+
+.tarot22 {
+    background-image: url("../images/tarots/Z3-22.png");
+}
